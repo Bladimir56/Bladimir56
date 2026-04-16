@@ -2,8 +2,10 @@
 <h3 align="center">Estudiante de desarrollo frontend · Guatemala 🇬🇹</h3>
 
 <p align="center">
-  Apasionado por la tecnología, actualmente logica de programación<br/>
-  y trabajando con Odoo en el area laboral, mientras estudio en la universidad.
+Estudiante de Ingeniería · Guatemala 🇬🇹
+Apasionado por entender cómo funciona todo desde adentro — aprendo lógica de
+programación, construyendo mis primeros proyectos y trabajo con Odoo en el area laboral mientras
+descubro el inmenso mundo de la informática.
 </p>
 
 ---
