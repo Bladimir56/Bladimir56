@@ -1,4 +1,5 @@
-<h1 align="center">Hola, soy Bladimir Morataya 👋 <img width="394" height="480" alt="SpongebobSmirkGIF (2)" src="https://github.com/user-attachments/assets/c7569b26-0d18-4508-828a-885647e9a9c9" />
+<h1 align="center">Hola, soy Bladimir Morataya 👋 ![Uploading MbappeKylianMbappéGIF.gif…]()
+/>
 </h1>
 <h3 align="center">Estudiante de Desarrollo de Software · Guatemala 🇬🇹</h3>
 
