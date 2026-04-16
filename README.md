@@ -34,7 +34,7 @@ descubro el inmenso mundo de la informática.
 
 <h3 align="left">📚 Actualmente aprendiendo</h3>
 
-- Fundamentos de Python, Visual Studio Code
+- Fundamentos previos  de Python & Visual Studio Code
 - Lógica de programación con C#
 - Bases de datos relacionales con SQL Server
 
