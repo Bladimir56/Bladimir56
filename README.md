@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Bladimir Morataya 👋</h1>
-<h3 align="center">Estudiante de desarrollo frontend · Guatemala 🇬🇹</h3>
+<h3 align="center">Estudiante de Desarrollo de Software · Guatemala 🇬🇹</h3>
 
 <p align="center">
 <p align="center">
