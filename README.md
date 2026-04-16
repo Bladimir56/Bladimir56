@@ -2,8 +2,8 @@
 <h3 align="center">Estudiante de desarrollo frontend · Guatemala 🇬🇹</h3>
 
 <p align="center">
-  Apasionado por la tecnología, actualmente aprendiendo desarrollo web<br/>
-  y trabajando con Odoo mientras estudio en la universidad.
+  Apasionado por la tecnología, actualmente logica de programación<br/>
+  y trabajando con Odoo en el area laboral, mientras estudio en la universidad.
 </p>
 
 ---
@@ -16,15 +16,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo"/>
 </p>
 
 ---
@@ -37,7 +32,7 @@
 
 <h3 align="left">📚 Actualmente aprendiendo</h3>
 
-- Fundamentos de HTML, CSS y JavaScript
+- Fundamentos de Python, Visual Studio Code
 - Lógica de programación con C#
 - Bases de datos relacionales con SQL Server
 
