@@ -2,10 +2,14 @@
 <h3 align="center">Estudiante de desarrollo frontend · Guatemala 🇬🇹</h3>
 
 <p align="center">
-Estudiante de Ingeniería · Guatemala 🇬🇹
-Apasionado por entender cómo funciona todo desde adentro — aprendo lógica de
-programación, construyendo mis primeros proyectos y trabajo con Odoo en el area laboral mientras
-descubro el inmenso mundo de la informática.
+<p align="center">
+  Soy un estudiante con mentalidad de crecimiento constante, siempre buscando<br/>
+  aprender en distintas áreas. Actualmente descubriendo el mundo de la informática<br/>
+  — desde la lógica de programación hasta el análisis de sistemas —<br/>
+  convencido de que la tecnología es una herramienta poderosa<br/>
+  para aportar valor a las personas y organizaciones.<br/><br/>
+  Aprendiendo cómo funciona todo desde adentro, construyendo mis primeros proyectos<br/>
+</p>
 </p>
 
 ---
