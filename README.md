@@ -1,9 +1,7 @@
-<h1 align="center">Hola, soy Bladimir Morataya 👋</h1>
+<h1 align="center">Hola, soy Bladimir Morataya 👋
+</h1>
+<h3 align="center">Estudiante de Desarrollo de Software · Guatemala 🇬🇹</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante%20de%20Desarrollo%20de%20Software-0077B6?style=for-the-badge" alt="rol"/>
-  <img src="https://img.shields.io/badge/Guatemala-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="ubicacion"/>
-</p>
-
 <p align="center">
   Soy un estudiante con mentalidad de crecimiento constante, siempre buscando<br/>
   aprender en distintas áreas. Actualmente descubriendo el mundo de la informática<br/>
@@ -11,36 +9,37 @@
   convencido de que la tecnología es una herramienta poderosa<br/>
   para aportar valor a las personas y organizaciones.<br/><br/>
   Aprendiendo cómo funciona todo desde adentro, construyendo mis primeros proyectos<br/>
-  y aplicando conocimientos en el área laboral trabajando con Odoo.
 </p>
-
+</p>
 ---
-
 <h3 align="left">🛠️ Tecnologías y herramientas</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sqlserver"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo"/>
 </p>
-
 ---
-
 <h3 align="left">📂 Proyectos</h3>
-
 - **Formularios en C# (Windows Forms)** — Proyectos universitarios de registro y validación de datos con interfaces de escritorio.
-
 ---
-
 <h3 align="left">📚 Actualmente aprendiendo</h3>
-
-- Fundamentos previos de Python & Visual Studio Code
+- Fundamentos previos  de Python & Visual Studio Code
 - Lógica de programación con C#
 - Bases de datos relacionales con SQL Server
-
 ---
-
 <h3 align="left">🔗 Conéctate conmigo</h3>
 <p align="left">
   <a href="https://www.facebook.com/TU_USUARIO_AQUI" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/TU_USUARIO_AQUI" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
